@@ -1,6 +1,6 @@
 # Unifinex Studio
 
-###### A software development studio for _Windows_ and _Linux_ platforms based in Russia.
+###### A software development studio for Windows and Linux platforms based in **Russia**.
 
 We work with complex desktop systems: from **game engines** to **analytical platforms**. We value control over performance and time, rather than cross-platform abstractions. And, of course, **we love coffee** ☕.
 
@@ -8,4 +8,4 @@ You are always welcome to [contact us](mailto:unifinex@gmail.com) to **discuss p
 
 #
 
-*Sincerely, the **Unifinex Team**. Russia, **MMXXVI**.*
+*Sincerely, the Unifinex Team. Russia, MMXXVI*
